@@ -20,7 +20,7 @@ Once your environment is configured, run `pip install -r requirements.txt`
 ## Running the demo
 
 The documentation should be up-to-date, so start with
-```bash
+```
 $ ./password.py
 usage: password.py [-h] {encode,guess,time_to_guess} ...
 
